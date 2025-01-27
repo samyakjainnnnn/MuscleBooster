@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "846382006046",
+    "project_id": "buildyourself-e85c7",
+    "storage_bucket": "buildyourself-e85c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846382006046:android:46cb6ea2b451aaa869530f",
+        "android_client_info": {
+          "package_name": "buildyourself.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846382006046-gdbvjcgh49u1j68265brk7b8r30d6cj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "buildyourself.com",
+            "certificate_hash": "c45f96a6eec564a07b028f6fdf1cc65ee67df473"
+          }
+        },
+        {
+          "client_id": "846382006046-b4ekj0f970dkhds0fc5t6jso7sdvqhrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYm05a89AhhyOYzkZCI2FaxZDioS9XCN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846382006046-b4ekj0f970dkhds0fc5t6jso7sdvqhrv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846382006046-lbqndcc9mkpnecs9d40kcnhuke6u7umf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "buildyourself.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
